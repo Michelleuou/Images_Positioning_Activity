@@ -1,1 +1,0 @@
-# Images_Positioning_Activity
