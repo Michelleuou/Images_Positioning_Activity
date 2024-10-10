@@ -72,12 +72,9 @@ float:right;
 font-style:italic;
 background-color:#99FF00;}
 
-#image1{
+#image1 {
    width: 40px;
-  height: 40px;
-}
-#image2{
+  height: 40px;}
+#image2 {
 height:40px;
-width: 40px;
-	
-}
+width: 40px;}
