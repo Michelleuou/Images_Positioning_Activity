@@ -75,12 +75,9 @@ background-color:#99FF00;}
 #image1{
    width: 40px;
   height: 40px;
-  object-fit: cover;
 }
 #image2{
 height:40px;
 width: 40px;
-border: 10px solid transparent;
-padding: 15px;
 	
 }
