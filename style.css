@@ -71,3 +71,8 @@ text-align:right;
 float:right;
 font-style:italic;
 background-color:#99FF00;}
+
+#image{
+	width: 400px;
+	height: 200px;
+}
