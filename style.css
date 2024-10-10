@@ -81,4 +81,7 @@ background-color:#99FF00;}
 
 #image2 {
 height:200px;
-width: 200px;}
+width: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;}}
