@@ -30,7 +30,8 @@ body,td,th {
 	float: left;
 	width: 300px;
 	border-style: ridge;
-	border-width: medium;
+	border-radius: 5px;
+	border-width: thin;
 	height:400px
 	margin:0px .8em 0px 0px;}
 	
@@ -38,7 +39,8 @@ body,td,th {
 	float: left;
 	width: 300px;
 	border-style: ridge;
-	border-width: medium;
+	border-radius: 5px;
+	border-width: thin;
 	height:400px
 	margin:0px .8em 0px 0px;}
 	
@@ -46,7 +48,8 @@ body,td,th {
 	float: left;
 	width: 300px;
 	border-style: ridge;
-	border-width: medium;
+	border-width: thin;
+	border-radius: 5px;
 	height:400px
         margin:0px .8em 0px 0px;}
 	
@@ -81,7 +84,7 @@ font-style:italic;
 background-color:white;}
 
 #image1 {
-   width: 200px;
+  width: 200px;
   height: 200px;
   display: block;
   margin-left: auto;
