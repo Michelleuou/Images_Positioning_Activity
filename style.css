@@ -31,6 +31,7 @@ body,td,th {
 	width: 300px;
 	border-style: ridge;
 	border-width: medium;
+	height:400px
 	margin:0px .8em 0px 0px;}
 	
 #contact {
@@ -38,6 +39,7 @@ body,td,th {
 	width: 300px;
 	border-style: ridge;
 	border-width: medium;
+	height:400px
 	margin:0px .8em 0px 0px;}
 	
 #picture {
@@ -45,6 +47,7 @@ body,td,th {
 	width: 300px;
 	border-style: ridge;
 	border-width: medium;
+	height:400px
         margin:0px .8em 0px 0px;}
 	
 #compete {
