@@ -29,14 +29,14 @@ body,td,th {
 	clear:left;
 	float: left;
 	width: 300px;
-	border-right-style: ridge;
-	margin:0px .8em 0px 0px;}
+	border-style: ridge;
+	margin:1px .8em 0px 0px;}
 	
 #contact {
 	float: left;
 	width: 300px;
-	border-right-style: ridge;
-	margin:0px .8em 0px 0px;}
+	border-style: ridge;
+	margin:1px .8em 0px 0px;}
 	
 #picture {
 	float: left;
