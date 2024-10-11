@@ -38,14 +38,14 @@ body,td,th {
 	width: 300px;
 	border-style: ridge;
 	border-width: medium;
-	margin: 0px auto;}
+	margin:1px .8em 0px 0px;}
 	
 #picture {
 	float: left;
 	width: 300px;
 	border-style: ridge;
 	border-width: medium;
-	margin: 0px auto;}
+        margin:1px .8em 0px 0px;}
 	
 #compete {
 	clear:both;
@@ -58,7 +58,7 @@ body,td,th {
 	float: left;
 	width: 300px;
 	padding:1em;
-	margin: 0px auto;
+	margin:1px .8em 0px 0px;
 }
 
 .heading {background-color: Linen;
