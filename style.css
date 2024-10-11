@@ -20,7 +20,7 @@ font-size:2.5em;}
 	width: 600px;
 }
 body,td,th {
-	background-color: coral;
+	background-color: LightSteelBlue;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -50,14 +50,14 @@ body,td,th {
 	}
 
 #looks {
-	background-color: #FF3;
+	background-color: Linen;
 	float: left;
 	width: 300px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
 }
 
-.heading {background-color:#FF3;
+.heading {background-color: Linen;
 padding:.75em;
 text-align:center;}
 
